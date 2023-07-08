@@ -13,3 +13,4 @@
 1. [Chrome extenstions documentation](https://developer.chrome.com/docs/extensions/mv3/)
 2. [hello world project](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/)
 3. [Architecture Overview - Project Structure](https://developer.chrome.com/docs/extensions/mv3/architecture-overview/)
+4. [Tabs-Manager Project](https://developer.chrome.com/docs/extensions/mv3/getstarted/tut-tabs-manager/)
